@@ -1,0 +1,17 @@
+[submodule "x264"]
+	path = x264
+	url = http://git.videolan.org/git/x264.git
+	branch = stable
+[submodule "rtmpdump"]
+	path = rtmpdump
+	url = git://git.ffmpeg.org/rtmpdump
+[submodule "fdk-aac"]
+	path = fdk-aac
+	url = https://github.com/mstorsjo/fdk-aac.git
+[submodule "ffmpeg"]
+	path = ffmpeg
+	url = https://git.ffmpeg.org/ffmpeg.git
+	branch = release/3.1
+[submodule "speex"]
+	path = speex
+	url = http://git.xiph.org/speex.git
